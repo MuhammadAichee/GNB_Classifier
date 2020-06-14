@@ -3,7 +3,10 @@ The Naive Bayes classifiers are working based on the Bayes’ theorem, which des
 
 Steps:
 1) Clone the project
-2) run command "pipenv install"
-3) run command "pipenv shell"
-4) run command "python .\GNB_classifier.py"
+2) run following commands 
+    i) pipenv install
+    ii) pipenv install pandas
+    iii) pipenv install xlrd
+    iv) pipenv shell
+    v) python .\GNB_classifier.py
 
